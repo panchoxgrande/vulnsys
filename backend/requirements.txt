@@ -1,0 +1,6 @@
+requests
+Flask
+Flask-Cors
+psycopg2-binary
+cpe
+OTXv2

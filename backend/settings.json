@@ -1,0 +1,13 @@
+{
+  "api_keys": {
+    "nvd": "",
+    "otx": "9fad9a75cd2c80633fb4f0cacd43244345740a96cb8f207f74ba35ae770b8ac5",
+    "vt": "b47fbe83b9ce4e8350f0b71321537395ef82ef884fa31d445f8a815c9d6ac89a"
+  },
+  "last_run_utc": "2020-01-01T00:00:00Z",
+  "selected_os": {
+    "windows": true,
+    "linux": true,
+    "macos": true
+  }
+}
